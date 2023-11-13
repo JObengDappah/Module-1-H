@@ -4,7 +4,7 @@
 
 - [Description](#description)
 
-- [Acceptance Criteria](#acceptance criteria)
+- [Acceptance-Criteria](#acceptance criteria)
 
 - [Link](#link)
 
@@ -47,4 +47,4 @@ This website belongs to Horiseon and is designed to provide users with detailed 
 For additional questions,
 
 ![GitHub]
- <https://github.com/JObengDappah/Module-5-Scheduler>
+<https://github.com/JObengDappah/Module-1-H>
